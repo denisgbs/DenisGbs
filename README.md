@@ -1,17 +1,19 @@
 ### Olá 👋 Me chamo Denis, fico feliz pela sua visita, fique avontade.
 SEJA BEM VINDO!!!
 
-<!--
-**DenisGbs/DenisGbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+• 🔭  Trabalhando em um projeto próprio, relacionado ao estudo da língua inglesa.
 
-Here are some ideas to get you started:
+• 🌱 Em processo de aprendizado na área do desenvolvimento web.
 
-- 🔭 Atualmente estou trabalhando em um projeto próprio, relacionado ao estudo da língua inglesa.
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+• 👯 Procurando colaborar em algo que agregue valor para mim e outras pessoas.
+
+• 🤔 Gostaria de desenvolver um projeto comigo?
+
+• 💬 Quote: "se cada um ajuda-se o seu próximo o mundo seria um lugar bem melhor."
+
+• 😄 Pronomes: Gbs/Dev.
+
+• 📫 How to reach me: Me procure no meu perfil, ficarei feliz em conversar com você.
+
+• ⚡ Fun fact: ...
 -->
