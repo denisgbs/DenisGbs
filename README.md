@@ -1,7 +1,7 @@
 ### Olá 👋 Me chamo Denis, estou feliz pela sua visita, fique avontade.
 SEJA BEM VINDO!!!
 
-• 🔭  Working on my own project, related to the study of the English language
+• 🔭  Working on my own project, related to the study of the English language.
 
 • 🌱 In the process of learning in the area of web development.
 
