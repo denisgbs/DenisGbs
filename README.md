@@ -1,11 +1,6 @@
 ## Olá 👋 Me chamo Denis, estou feliz pela sua visita, fique avontade.
-SEJA BEM VINDO!!!
 
-<div align="center">
-  <a href="https://github.com/DenisGbs">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=DenisGbs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenisGbs&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+WELCOME!!!
 
 • 🌱 In the process of learning in the area of web development.
 
@@ -13,9 +8,13 @@ SEJA BEM VINDO!!!
 
 • 👯 Looking to collaborate on something that adds value to me and other people.
 
-• ⚡ Fun fact: Um criativo muito esforçado que pença fora da caixa e adora contribuir para algo melhor!!!
+• ⚡ Fun fact: A hardworking creative who thinks outside the box and loves to contribute to something better!!!
 
-
+<div align="center">
+  <a href="https://github.com/DenisGbs">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=denisgbs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denisgbs&layout=compact&langs_count=7&theme=dracula"/>
+</div>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -33,7 +32,6 @@ SEJA BEM VINDO!!!
   <a href = "mailto:dnys.gomes@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/denis-gomes-barbosa-a0653b1b3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 
-  
   ![Snake animation](https://github.com/denisgbs/denisgbs/blob/output/github-contribution-grid-snake.svg)
   
 </div>
