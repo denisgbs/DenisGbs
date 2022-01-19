@@ -1,5 +1,13 @@
-### Olá 👋 Me chamo Denis, estou feliz pela sua visita, fique avontade.
+## Olá 👋 Me chamo Denis, estou feliz pela sua visita, fique avontade.
 SEJA BEM VINDO!!!
+
+<div align="center">
+  <a href="https://github.com/DenisGbs">
+  <img height="149em" src="https://github-readme-stats.vercel.app/api?username=DenisGbs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="149em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenisGbs&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+
 
 • 🔭  Working on my own project, related to the study of the English language.
 
@@ -17,13 +25,9 @@ SEJA BEM VINDO!!!
 
 • ⚡ Fun fact: Um criativo muito esforçado que pença fora da caixa e adora contribuir para algo melhor!!!
 
-<div align="center">
-  <a href="https://github.com/DenisGbs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DenisGbs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenisGbs&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+
   
- <div style="display: inline_block"><br>
+<div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
