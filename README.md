@@ -1,4 +1,4 @@
-## Olá 👋 seja bem vindo, estou feliz pela sua visita, fique avontade.
+## Olá 👋 estou feliz pela sua visita, fique avontade.
 
 SEJA BEM VINDO!!!
 
